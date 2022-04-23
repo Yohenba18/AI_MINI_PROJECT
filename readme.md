@@ -1,3 +1,9 @@
+AI MINI PROJECT 
+
+## Problem Statement:
+
+To predict the next word of a sentence given its previous words and a corpus for training the model.
+
 ## Team Members:
 ```
 1. Shashwat Ratna                RA1911003010944
