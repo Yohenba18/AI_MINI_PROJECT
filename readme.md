@@ -1,4 +1,4 @@
-AI MINI PROJECT 
+# AI MINI PROJECT 
 
 ## Problem Statement:
 
